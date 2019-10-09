@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/boardgames-club/static/css/main.55991cb0.chunk.css",
+    "main.js": "/boardgames-club/static/js/main.31e6f713.chunk.js",
+    "main.js.map": "/boardgames-club/static/js/main.31e6f713.chunk.js.map",
+    "runtime-main.js": "/boardgames-club/static/js/runtime-main.2e392fc1.js",
+    "runtime-main.js.map": "/boardgames-club/static/js/runtime-main.2e392fc1.js.map",
+    "static/js/2.5a46359d.chunk.js": "/boardgames-club/static/js/2.5a46359d.chunk.js",
+    "static/js/2.5a46359d.chunk.js.map": "/boardgames-club/static/js/2.5a46359d.chunk.js.map",
+    "index.html": "/boardgames-club/index.html",
+    "precache-manifest.20fb62346cc9cfb1d7f184086de6ed50.js": "/boardgames-club/precache-manifest.20fb62346cc9cfb1d7f184086de6ed50.js",
+    "service-worker.js": "/boardgames-club/service-worker.js",
+    "static/css/main.55991cb0.chunk.css.map": "/boardgames-club/static/css/main.55991cb0.chunk.css.map",
+    "static/media/App.css": "/boardgames-club/static/media/robert-coelho-laNNTAth9vs-unsplash.7161c933.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e392fc1.js",
+    "static/js/2.5a46359d.chunk.js",
+    "static/css/main.55991cb0.chunk.css",
+    "static/js/main.31e6f713.chunk.js"
+  ]
+}

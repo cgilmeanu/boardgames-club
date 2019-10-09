@@ -1,22 +1,58 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
   color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+.App-container {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.box-item {
+  width: 30vw;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
+
+.box-item span {
+  font-size: 1.5em;
+}
+
+.dungeon-and-dragons {
+  display: block;
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  border: 5px white solid;
+  margin: 10px;
+  background-image: url(./images/clint-bustrillos-X-A-LJVAhzk-unsplash.jpg);
+  background-size: cover;
+}
+
+.boardgames {
+  display: block;
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  border: 5px white solid;
+  margin: 10px;
+  background-image: url(./images/robert-coelho-laNNTAth9vs-unsplash.jpg);
+  background-size: cover;
+}
+.box-content {
+  transition: transform 0.2s ease-in;
+}
+.box-content:hover {
+  transform: scale(1.05) rotate(5deg);
 }
